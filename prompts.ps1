@@ -1,4 +1,3 @@
-#Joshua Taylor Student ID: 001322591
 
 $mynum = 0
 
